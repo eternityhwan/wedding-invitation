@@ -71,8 +71,8 @@ export const weddingConfig = {
       }
     },
     brideShuttle: {
-      location: "경북 구미시",
-      departureTime: "오전 11시 출발",
+      location: "경상북도 구미시",
+      departureTime: "오전 10시 출발",
       contact: {
         name: "담당자명",
         tel: "010-9876-5432"
@@ -138,14 +138,14 @@ export const weddingConfig = {
     },
     brideFather: {
       bank: "농협", // 실제 은행명으로 수정 필요
-      number: "999-000-111222", // 실제 계좌로 수정 필요
-      holder: "박운봉",
+      number: "741092-56-066907", // 실제 계좌로 수정 필요
+      holder: "백승희",
     },
-    //brideMother: {
-    //  bank: "농협",
-    //  number: "741092-56-066907",
-    //  holder: "백승희",
-   // }
+    brideMother: {
+      bank: "농협",
+      number: "741092-56-066907",
+      holder: "백승희",
+    }
   },
 
   // RSVP 설정
