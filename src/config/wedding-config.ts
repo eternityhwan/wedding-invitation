@@ -129,24 +129,19 @@ export const weddingConfig = {
       holder: "박정인",
     },
     groomFather: {
-      bank: "은행명",
-      number: "111-222-333444",
-      holder: "신랑아버지",
+      bank: "농협",
+      number: "221022-56-005417",
+      holder: "김의수",
     },
     groomMother: {
-      bank: "은행명",
-      number: "555-666-777888",
-      holder: "신랑어머니",
-    },
-    brideFather: {
-      bank: "은행명",
-      number: "999-000-111222",
-      holder: "신부아버지",
+      bank: "농협",
+      number: "171395-52-078221",
+      holder: "이정옥",
     },
     brideMother: {
-      bank: "은행명",
-      number: "333-444-555666",
-      holder: "신부어머니",
+      bank: "농협",
+      number: "741092-56-066907",
+      holder: "백승희",
     }
   },
 
@@ -158,8 +153,8 @@ export const weddingConfig = {
 
   // 슬랙 알림 설정
   slack: {
-    webhookUrl: process.env.NEXT_PUBLIC_SLACK_WEBHOOK_URL || "",
+    webhookUrl: "",
     channel: "#wedding-response",
     compactMessage: true, // 슬랙 메시지를 간결하게 표시
   },
-}; 
+};
