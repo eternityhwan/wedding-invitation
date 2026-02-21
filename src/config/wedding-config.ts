@@ -71,7 +71,7 @@ export const weddingConfig = {
       }
     },
     brideShuttle: {
-      location: "대구 출발(구미 시청 출발)",
+      location: "대구 신매역 기아오토큐 노변점 맞은편 출발(구미 시청 정문 주차장)",
       departureTime: "오전 8시 출발(9시 출발)",
       contact: {
         name: "석태석",
