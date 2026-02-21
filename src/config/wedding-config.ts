@@ -71,11 +71,11 @@ export const weddingConfig = {
       }
     },
     brideShuttle: {
-      location: "경상북도 구미시",
-      departureTime: "오전 10시 출발",
+      location: "대구 출발(구미 시청 출발)",
+      departureTime: "오전 8시 출발(9시 출발)",
       contact: {
-        name: "담당자명",
-        tel: "010-9876-5432"
+        name: "석태석",
+        tel: "010-6767-0750"
       }
     }
   },
