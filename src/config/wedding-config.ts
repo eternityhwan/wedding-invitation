@@ -64,15 +64,15 @@ export const weddingConfig = {
     parking: "네비게이션 이용시 : 루이비스컨벤션 또는 주소 입력\n웨딩홀 건물(H비지니스파크) 내 A, B동 C, D동 B1~B4 1300여대 주차가능",
     groomShuttle: {
       location: "경기도 광주 성결교회",
-      departureTime: "오전 10시 30분 출발",
+      departureTime: "오전 11시 30분 출발",
       contact: {
-        name: "담당자명",
-        tel: "010-1234-5678"
+        name: "성결교회",
+        tel: "010-761-1451"
       }
     },
     brideShuttle: {
-      location: "대구 신매역 기아오토큐 노변점 맞은편 출발(구미 시청 정문 주차장)",
-      departureTime: "오전 8시 출발(9시 출발)",
+      location: "대구 신매역 기아오토큐 노변점 맞은편(구미 시청 정문 주차장 경유)",
+      departureTime: "[대구]오전 8시 출발, [구미]오전 9시 경유",
       contact: {
         name: "석태석",
         tel: "010-6767-0750"
@@ -94,6 +94,15 @@ export const weddingConfig = {
       "/images/gallery/image7.jpg",
       "/images/gallery/image8.jpg",
       "/images/gallery/image9.jpg",
+      "/images/gallery/image10.jpg",
+      "/images/gallery/image11.jpg",
+      "/images/gallery/image12.jpg",
+      "/images/gallery/image13.jpg",
+      "/images/gallery/image14.jpg",
+      "/images/gallery/image15.jpg",
+      "/images/gallery/image16.jpg",
+      "/images/gallery/image17.jpg",
+      "/images/gallery/image18.jpg",
     ],
   } as GalleryConfig,
 
