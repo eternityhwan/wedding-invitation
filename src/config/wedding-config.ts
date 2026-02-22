@@ -105,7 +105,6 @@ export const weddingConfig = {
       "/images/gallery/images18.jpg",
       "/images/gallery/images19.jpg",
       "/images/gallery/images20.jpg",
-      "/images/gallery/images21.jpg",
     ],
   } as GalleryConfig,
 
