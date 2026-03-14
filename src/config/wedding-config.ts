@@ -72,9 +72,9 @@ export const weddingConfig = {
     },
     brideShuttle: {
       location: "대구 신매역 기아오토큐 노변점 맞은편(구미 시청 정문 주차장 경유)",
-      departureTime: "[대구]오전 8시 출발, [구미]오전 9시 경유",
+      departureTime: "[대구]오전 8시30분 출발, [구미]오전 9시 30분 경유",
       contact: {
-        name: "석태석",
+        name: "석태석[차량번호:대구70바2726] ",
         tel: "010-6767-0750"
       }
     }
@@ -104,7 +104,6 @@ export const weddingConfig = {
       "/images/gallery/images17.jpg",
       "/images/gallery/images18.jpg",
       "/images/gallery/images19.jpg",
-      "/images/gallery/images20.jpg",
     ],
   } as GalleryConfig,
 
